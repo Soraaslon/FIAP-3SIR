@@ -1,0 +1,47 @@
+# .gitignore para Java, Maven, Gradle e Android
+
+# Arquivos de compilação do Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de configuração do Maven
+.mvn/
+target/
+
+# Arquivos de configuração do Gradle
+.gradle/
+build/
+
+# Arquivos de configuração do Android
+# Diretórios de saída de build
+/build/
+/.idea/
+/.vscode/
+/local.properties
+/.externalNativeBuild/
+/captures/
+/output/
+
+# Arquivos temporários e de backup
+*~
+*.swp
+*.bak
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de IDEs
+/.idea/
+/*.iml
+/.vscode/
+
+# Dependências locais do Maven
+.m2/
+
+# Arquivos de configuração do Android Studio
+.gradle/
+.idea/
+*.iml
