@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Fiap_First_Project_Kotlin" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

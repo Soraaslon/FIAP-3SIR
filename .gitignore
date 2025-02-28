@@ -45,3 +45,6 @@ Thumbs.db
 .gradle/
 .idea/
 *.iml
+
+# Eclipse
+workspace/
